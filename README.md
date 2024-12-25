@@ -63,7 +63,7 @@ With the known clientip for the hydra attack and piping for timechart with a spa
 
 <br />
 <br />
-From the table, piping a serach for userganet strings with *Nmap* wildcard to produce 29 results. 
+From the table, piping a serach for useragent strings with *Nmap* wildcard to produce 29 results. 
 
 ![9) searching for useragent nmap within a table](https://github.com/user-attachments/assets/c33c7297-1898-4734-8b02-86076c282155)
 
