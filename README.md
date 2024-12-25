@@ -1,7 +1,7 @@
 # Splunk: Search Commands
 
 <h2>Description</h2>
-In this SIEM task, I explored more Splunk search commands to create tables, search useragent strings, use geostats and iplocation geolocate clientips. 
+In this SIEM task, I explored more Splunk search commands to create tables, search useragent strings, use geostats and iplocation to geolocate clientips. 
 
 
 <h2>Languages and Utilities Used</h2>
